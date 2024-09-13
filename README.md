@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @siboraberishaa
 - 👀 I’m interested in programming, and everything that has to do with computers
-- 🌱 I’m currently learning react native and java
-- 💞️ I’m looking to collaborate on any project with MERN stack technologies
+- 💞️ I’m looking to collaborate on any project with MERN stack technologies or Django 
 - 📫 How to reach me? Linkedin: https://www.linkedin.com/in/sibora-berisha-9b863b274/
 
 <!---
