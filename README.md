@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @siboraberishaa
-- 👀 I’m interested in programming, and everything that has to do with computers
-- 💞️ I’m looking to collaborate on any project with MERN stack technologies or Django 
-- 📫 How to reach me? Linkedin: https://www.linkedin.com/in/sibora-berisha-9b863b274/
 
-<!---
-siboraberishaa/siboraberishaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=900&color=72C480&center=true&vCenter=true&width=435&lines=Hello;I+am+Sibora+Berisha;A+software+developer;Passionate+about+crafting;And+innovative+solutions" alt="Typing SVG" /></a>
+</p>
+
+
+<br>
+
