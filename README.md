@@ -16,3 +16,9 @@ My adaptability and problem-solving skills are complemented by my drive for cont
 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+
+
+### ✨ Contact me
+
+-  <img align="left" alt="Linkedin" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/sibora-berisha-9b863b274/
+-  <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> siboraberisha@gmail.com
