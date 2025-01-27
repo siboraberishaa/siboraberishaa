@@ -46,24 +46,5 @@ My adaptability and problem-solving skills are complemented by my drive for cont
 
 <br>
 
-<p align="left">
-  <a href="https://github.com/siboraberishaa/investment-calculator.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siboraberishaa&repo=investment-calculator" alt="Readme Card"/>
-  </a>
-  <a href="https://github.com/siboraberishaa/FlappyMali.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siboraberishaa&repo=FlappyMali" alt="Readme Card"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/siboraberishaa/rock-paper-scissors-game.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siboraberishaa&repo=rock-paper-scissors-game" alt="Readme Card"/>
-  </a>
-  <a href="https://github.com/siboraberishaa/agrocultureProject.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siboraberishaa&repo=agrocultureProject" alt="Readme Card"/>
-  </a>
-</p>
-
-
 
 ![siboraberishaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siboraberishaa&theme=dark&show_icons=true&hide_border=false&layout=compact)
