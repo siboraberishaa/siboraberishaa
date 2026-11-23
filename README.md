@@ -27,9 +27,9 @@
 
 ```yaml
 name: Sibora Berisha
-role: DevOps Engineer @ Polymath Services
-previously: Full Stack Software Developer @ TEL Communications
-location: Prizren, Kosovo 🇽🇰
+role: DevOps Engineer & Freelance Software Developer
+previously: Full Stack Software Developer @ TEL Communication
+location: Prishtina, Kosovo 🇽🇰
 started_coding_at: 16   # and never stopped
 
 current_focus:
@@ -37,6 +37,7 @@ current_focus:
   - Containerized everything 🐳
   - Infrastructure as Code (Terraform / Pulumi)
   - Agentic AI tooling & MCP servers 🤖
+  - Master powershell scripting
 
 background: MERN stack + React Native + Django
 side_quests: [CTF forensics & reverse engineering, retro gaming, gardening 🌱]
@@ -51,7 +52,7 @@ motto: "If I've done it twice, I'm automating it."
 [ ✔ ] Designing and running AWS infrastructure in production
 [ ✔ ] Building an MCP-powered "Second Brain" knowledge base
 [ ✔ ] Creating AI agents with the OpenAI API
-[ ⟳ ] Leveling up in Terraform, CI/CD and observability
+[ ✔ ] Leveling up in Terraform, CI/CD and observability
 [ ⟳ ] Solving forensics & reversing challenges in CTFs
 ```
 
